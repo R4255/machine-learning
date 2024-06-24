@@ -47,8 +47,8 @@ Our repository is organized into the following sections:
 To get started, clone the repository and navigate through the directories to find the topic of your interest. Each section contains a README file with an overview and instructions on running the code examples.
 
 ```bash
-git clone https://github.com/yourusername/comprehensive-ml-repo.git
-cd comprehensive-ml-repo
+git clone https://github.com/R4255/machine-learning.git
+cd machine-learning
 ```
 
 ![Start](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
