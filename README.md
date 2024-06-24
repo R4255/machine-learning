@@ -82,11 +82,6 @@ Embark on your machine learning journey with confidence. Explore, learn, and inn
 Happy Learning!
 
 ---
-
-**Contact**: For any queries or suggestions, please reach out to [your email].
-
-**GitHub**: [Your GitHub Profile](https://github.com/yourusername)
-
 ![Contact](https://media.giphy.com/media/l4FGuhL4U2WyjdkaY/giphy.gif)
 
 ---
